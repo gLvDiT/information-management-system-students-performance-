@@ -1,4 +1,4 @@
-# information-management-system-students-performance-
+# Students-performance-managment-system
 Project at the end of the semester.
 
 Brief instructions and description of functions.
